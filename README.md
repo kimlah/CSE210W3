@@ -21,7 +21,7 @@ root
 ## Authors
 Logan Andrus lbandrus@byui.edu
 Keeley Imlah wil11070@byui.edu
-Felipe Valencia val16028@byui.edu
+Felipe Valencia fevacla@byui.edu
 Kathryn Thompson thompson21057@byui.edu
 Morgan Luke morganluke@byui.edu
 
